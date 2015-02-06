@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.1
-Release:	15
+Release:	16
 Summary:	Obtain statistical information from an XML documents
 License:	PHP License
 Group:		Development/PHP
